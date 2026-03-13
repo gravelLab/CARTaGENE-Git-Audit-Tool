@@ -1,5 +1,9 @@
-# UKB-Git-Audit-Tool
-The UKB-Git-Audit-Tool is a utility designed to audit Git repositories for potential exposure of UK Biobank data. It performs a comprehensive scan of the repository’s commit history—including deleted files—to identify and flag content that may contain sensitive information.
+# CARTaGENE-Git-Audit-Tool
+
+The CARTaGENE Audit tool is a minimal modification of the UKB audit tool, a utility designed to audit Git repositories for potential exposure of UK Biobank data. It performs a comprehensive scan of the repository’s commit history—including deleted files—to identify and flag content that may contain sensitive information. 
+
+
+
 
 The tool supports both executable and Python script modes, making it suitable for a range of environments and workflows.
 
